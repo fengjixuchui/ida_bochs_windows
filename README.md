@@ -25,6 +25,8 @@ Helper script for Windows kernel debugging with IDA Pro on VMware + GDB stub (in
 
 https://github.com/therealdreg/ida_vmware_windows_gdb
 
+https://github.com/therealdreg/pdbdump_bochs
+
 ## Credits
 
 Based on original IDA-VMware-GDB By Oleksiuk Dmytro (aka Cr4sh) https://github.com/Cr4sh/IDA-VMware-GDB
